@@ -1,5 +1,5 @@
 {
-  "name": "swoft/task",
+  "name": "swoft-fork/task",
   "type": "library",
   "version": "v2.0.11",
   "keywords": [
@@ -12,7 +12,7 @@
   "description": "swoft task component",
   "license": "Apache-2.0",
   "require": {
-    "swoft/framework": "~2.0.0"
+    "swoft-fork/framework": "~2.0.0"
   },
   "autoload": {
     "psr-4": {
