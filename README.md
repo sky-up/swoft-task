@@ -16,7 +16,7 @@ Swoft Task Component
 - composer command
 
 ```bash
-composer require swoft/task
+composer require swoft-fork/task
 ```
 
 ## Resources
